@@ -1,9 +1,11 @@
 # CMSC-325-Project-3
 #### Introduction and installation of Java Monkey Engine.
 
-Installation of Java Monkey Engine along with the running of the "HelloWorldTutorial".
+Installation of jMonkeyEngine along with the running of the "HelloWorldTutorial".
 
-_Note: The tutorial followed to create this project can be found here https://jmonkeyengine.github.io/wiki/jme3/beginner/hello_simpleapplication.html_
+The jMonkey Engine SDK can be found [here](https://github.com/jMonkeyEngine/sdk)
+
+_Note: The tutorial followed to create this project can be found [here](https://jmonkeyengine.github.io/wiki/jme3/beginner/hello_simpleapplication.html)_
 
 ---
 ###### This project was assigned while attending University of Maryland University College (UMUC)

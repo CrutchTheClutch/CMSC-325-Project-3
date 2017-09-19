@@ -1,5 +1,5 @@
 # CMSC-325-Project-3
-#### Introduction and installation of Java Monkey Engine
+#### Introduction and installation of Java Monkey Engine.
 
 Installation of Java Monkey Engine along with the running of the "HelloWorldTutorial".
 
